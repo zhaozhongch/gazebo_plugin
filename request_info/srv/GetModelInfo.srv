@@ -1,0 +1,7 @@
+std_msgs/Bool request_type
+---
+std_msgs/String names
+std_msgs/Float64MultiArray locations
+std_msgs/Float64MultiArray orientations
+std_msgs/Float64MultiArray dimensions
+std_msgs/Int64 num
